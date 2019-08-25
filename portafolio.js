@@ -3,43 +3,50 @@ var trabajos = [{
     alt: "Descripción de la imagen",
     title: "Hello World",
     about: " ",
-    url: "https://www.google.com"
+    url: "https://giphy.com/"
 }, {
     figure: "https://media.giphy.com/media/J4h6nhHC3baVVeGAuG/giphy.gif",
     alt: "Descripción de la imagen",
     title: "Jonas broer",
-    about: " "
+    about: " ",
+    url: "https://giphy.com/"
 }, {
     figure: "https://media.giphy.com/media/5hkDOy3Gn9w3Ydm8ra/giphy.gif",
     alt: "Descripción de la imagen",
     title: "Retro camera m4n",
-    about: " "
+    about: " ",
+    url: "https://giphy.com/"
 }, {
     figure: "https://media2.giphy.com/media/QMozgDyV3CutNj2cVs/giphy.gif?cid=790b76117b7575471b04436b6319059022bf738760e6b95e&rid=giphy.gif",
     alt: "Descripción de la imagen",
     title: "Just a cool GIF",
-    about: " "
+    about: " ",
+    url: "https://giphy.com/"
 }, {
     figure: "https://media0.giphy.com/media/7zuidDBSI60wPYU2S1/giphy.gif?cid=790b7611d13b66af681e139e964087caa153d6c51d38a3fd&rid=giphy.gif",
     alt: "Descripción de la imagen",
     title: "Approved",
-    about: " "
+    about: " ",
+    url: "https://giphy.com/"
 }, {
     figure: "https://media3.giphy.com/media/fCBUdPijqgA2Q/giphy.gif?cid=790b76113146c63319d1cccda573c5cf581eb37d2a2d9c49&rid=giphy.gif",
     alt: "Descripción de la imagen",
     title: "Mc Time",
-    about: " "
+    about: " ",
+    url: "https://giphy.com/"
 }, {
     figure: "https://media.giphy.com/media/UQIASPdRVXUjeOP6XK/giphy.gif",
     alt: "Descripción de la imagen",
     title: "Who's popular now? Paul.",
-    about: " "
+    about: " ",
+    url: "https://giphy.com/"
     
 }, {
-    figure: "https://media.giphy.com/media/UQIASPdRVXUjeOP6XK/giphy.gif",
+    figure: "https://media.giphy.com/media/zhmIHStBa2ezu/giphy.gif",
     alt: "Descripción de la imagen",
-    title: "Who's popular now? Paul.",
-    about: " "
+    title: "Help, please.",
+    about: " ",
+    url: "https://giphy.com/"
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
 $.each(trabajos, function(i, val) {
